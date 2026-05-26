@@ -1,0 +1,23 @@
+# Environments
+.env
+.env.local
+.env.production
+.env.development
+.env.staging
+!.env.example
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
