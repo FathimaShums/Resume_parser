@@ -1,0 +1,49 @@
+{
+  "full_name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "phone": "(555) 123-4567",
+  "location": "San Francisco, CA",
+  "linkedin_url": "https://linkedin.com/in/janedoe",
+  "github_url": "https://github.com/janedoe",
+  "skills": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Git",
+    "JavaScript",
+    "Python",
+    "React",
+    "SQL"
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "dates": "2014 - 2018"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Tech Corp",
+      "title": "Software Engineer",
+      "dates": "June 2020 - Present",
+      "description": "Designed and built scalable web applications using Python and Django.\nManaged deployments on AWS using Docker."
+    },
+    {
+      "company": "Startup Inc",
+      "title": "Junior Developer",
+      "dates": "May 2018 - June 2020",
+      "description": "Built frontend features in React.\nWrote SQL queries and structured databases."
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified ScrumMaster (CSM)"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "summary": "A highly motivated Software Engineer with 5 years of experience in Python and full-stack development."
+}
