@@ -1,6 +1,6 @@
 # Resume Parser Pro 📄✨
 
-An enterprise-ready, portfolio-quality, $0-cost Resume Parser web application that parses unstructured PDF and DOCX resume documents into beautiful structured data dashboards using rule-based heuristics, light NLP, and persistent cloud storage.
+A Resume Parser web application that parses unstructured PDF and DOCX resume documents into structured data dashboards using rule-based heuristics, light NLP, and persistent cloud storage.
 
 > **Live Demo Link:** https://resume-parser-ovvm.onrender.com
 
